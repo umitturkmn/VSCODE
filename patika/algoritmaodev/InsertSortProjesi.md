@@ -16,4 +16,4 @@ Insertion Sort Projesi Ödev
 * 4- [2,3,4,7,5,8,9,15,6] - n-3
 * 5- [2,3,4,5,7,8,9,15,6] -n-4
 -----
-
+* Ümit Türkmen
